@@ -1,0 +1,16 @@
+#choices {
+	list-style-type: lower-alpha;
+}
+button {
+	background-color: #4caf50;
+	color: white;
+	border: none;
+	margin: 5px;
+	padding: 10px 20px;
+	cursor: pointer;
+	opacity: 0.8;
+}
+
+button:hover {
+	opacity: 1;
+}
